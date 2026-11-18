@@ -14,7 +14,7 @@ el rol del usuario autenticado.
 ## Integrantes
 
 -   **Integrante 1:** Joaquin Moreno
--   **Integrante 2:**[Kevin Giraldo
+-   **Integrante 2:** Kevin Giraldo
 
 ## Enlaces del proyecto
 
