@@ -13,13 +13,13 @@ el rol del usuario autenticado.
 
 ## Integrantes
 
--   **Integrante 1:** \[Joaquin Moreno\]
--   **Integrante 2:** \[Kevin Giraldo\]
+-   **Integrante 1:** Joaquin Moreno
+-   **Integrante 2:**[Kevin Giraldo
 
 ## Enlaces del proyecto
 
--   **Repositorio de GitHub:** \[https://github.com/joaquinmoreno1781/Trabajo-Practico-Integrador-Programaci-n-2.git\]
--   **Video** \[https://youtu.be/ypLILuvWAz8\]
+-   **Repositorio de GitHub:** https://github.com/joaquinmoreno1781/Trabajo-Practico-Integrador-Programaci-n-2.git
+-   **Video** https://youtu.be/ypLILuvWAz8
 
 ------------------------------------------------------------------------
 
